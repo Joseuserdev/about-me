@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Joseuserdev.png" width="180" alt="Foto de perfil de José" style="border-radius: 50%;" />
-</p>
 
 # 👋 Hey, I'm José Gomes
 
