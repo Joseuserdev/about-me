@@ -2,52 +2,70 @@
   <img src="https://github.com/Joseuserdev.png" width="180" alt="Foto de perfil de José" style="border-radius: 50%;" />
 </p>
 
-# Olá, dev! 👋 Seja bem-vindo ao meu perfil!
+# 👋 Hey, I'm José Gomes
 
-Que honra em te ter no meu portfólio!  
-Meu nome é **José** e sou estudante de desenvolvimento de software há 2 anos, focado em **Fullstack com ênfase em Mobile**.
+🚀 ** Junior Fullstack Developer** | Mobile Developer with React Native & Backend Dev with Java & Node.js
 
----
+## 👨‍💻 About Me
+I'm a passionate self-taught developer from Brazil. I love building mobile apps, solving real-world problems, and diving deep into how technology works.
 
-## 🚀 Sobre mim
+Although I don't hold formal certificates yet, my GitHub speaks for me — every project is a chapter of my continuous learning journey.
 
-Sou apaixonado por participar do desenvolvimento de projetos de alta escalabilidade e robustez, desde microserviços até sistemas altamente complexos. Minha principal motivação é sempre buscar a melhor qualidade e experiência de usuário — tanto visual quanto interativa.
+## 🛠️ Tech Stack
+- **Mobile:** React Native, Expo  
+- **Backend:** Java (OOP), Node.js, Express  
+- **Frontend (basic):** HTML, CSS, JavaScript  
+- **Databases:** MySQL, SQLite  
+- **Dev Tools & Others:** Git, GitHub, VS Code, Docker, ESLint  
+- **Design & UI:** Figma, Adobe Color,TailwindCSS,StyledComponents
 
-O que mais me impulsiona no mundo da tecnologia é poder fazer novos networks e me conectar com pessoas que também querem crescer, compartilhar experiências e desenvolver projetos (pessoais ou colaborativos).  
-Prezo pelo trabalho em equipe, tenho espírito de liderança, disciplina, autenticidade e sou proativo — sempre disposto a estender a mão para meu brother de equipe!
+- ## 🚀 Tech & Tools
 
----
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠️ Minhas principais habilidades
 
-- **Linguagens & Frameworks:**  
-  React Native, JavaScript, TypeScript, Express, Next.js, Java, Spring Boot
-- **Gerenciadores de Pacotes:**  
-  npm (Node.js), Gradle (Java)
-- **Design & UI/UX:**  
-  Tailwind CSS, Figma
-- **Banco de Dados:**  
-  MongoDB, MySQL, PostgreSQL
-- **ORMs:**  
-  Prisma
-- **DevOps & Cloud:**  
-  Docker, Deploy em AWS
-- **Versionamento:**  
-  Git & GitHub
-
----
-
-## 🌱 Atualmente estudando
-
-Aprofundando cada vez mais meus conhecimentos em desenvolvimento mobile e cloud, sempre buscando as melhores práticas do mercado.
-
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-gomes-8061052a4/)
-[![Discord](https://img.shields.io/badge/Discord-jose_29772-5865F2?style=flat-square&logo=discord)](https://discord.com/users/jose_29772)
+## 📚 Currently Learning
+- Advanced React Native (navigation, animations, performance)  
+- Java & OOP best practices  
+- RESTful APIs (Java & Node.js)  
+- UI/UX principles and component design with Figma  
 
 ---
 
-**Vamos conectar, trocar ideias e construir projetos incríveis juntos! 🚀**
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseuserdev&show_icons=true&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseuserdev&layout=compact&theme=radical&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Joseuserdev&theme=radical&hide_border=false)
+
+---
+
+## 🐍 GitHub Activity Snake
+
+![Snake Animation](https://github.com/Joseuserdev/Joseuserdev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [josegomes2469.com@gmail.com](mailto:josegomes2469.com@gmail.com)  
+- 🔗 LinkedIn: [José Gomes](https://www.linkedin.com/in/jos%C3%A9-gomes-8061052a4/)
+
+> “💡 Always learning, always building — let’s create something impactful together!”
+
+
